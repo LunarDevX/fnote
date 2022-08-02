@@ -18,14 +18,8 @@ class fnote:
         self.hyphen = "-" * 40
         self.menu = {"a": self.add_note, "q": self.stop_program}
         self.finished = True
-        self.actions = []
 
-        # Initialite a list with all correct actions
-        for key in self.menu.keys():
-            self.actions.append(key)
-
-        print(self.actions)
-        # Initialize the terminal window
+        # Start the program 
         self.start()
 
     def start(self):
