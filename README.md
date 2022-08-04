@@ -31,7 +31,7 @@ These are all the modules that one might have to install.
 ## Features 
 - Simple to use 
 - Add note 
-  - ad title, tag and note
+  - Insert title, tag and note
   - Date and Id are generated automatically
 - Edit Note 
   - Edit title, tag and note 
@@ -56,7 +56,7 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
 
 #### Version-01
 - Changed 'Ad note'
-  - use of sys.stdin.read instead of input() 
+  - Use of sys.stdin.read instead of input() 
   - Goal: enter notes over multiple lines 
 - Added 'Quit Program' 
   - Application ends due to user input 
@@ -65,7 +65,7 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
 - Changed 'Ad note' 
   - Use of input()-function again
   - Loop over the input function
-  - 'Add note' ends due to pressing <<Enter>> if input() is empty 
+  - 'Add note' ends due to pressing 'Enter' if input() is empty 
 - Add 'Edit note' 
   - Use of readline module
   - Error occurs when note does not exist 
