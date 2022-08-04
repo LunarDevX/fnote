@@ -41,3 +41,6 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
   - Display menu 
   - Add note to database 
     - for user input --> input()-function 
+
+#### Version-01
+
