@@ -26,7 +26,7 @@ These are all the modules that one might have to install.
 - Texttable 
   - https://pypi.org/project/texttable/
 - readline 
-  - Might not work on Mac OS and Windows. Keep that in mind. 
+  - Might not work on Mac OS and Windows. 
 
 ## Motivation 
 The final task from NCLabs' Python Developer Career Course to show all my learned skills. 
