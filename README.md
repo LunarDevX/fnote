@@ -68,5 +68,4 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
   - 'Add note' ends due to pressing 'Enter' if input() is empty 
 - Add 'Edit note' 
   - Use of readline module
-  - Error occurs when note does not exist 
 
