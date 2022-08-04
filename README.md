@@ -40,7 +40,7 @@ These are all the modules that one might have to install.
 The final task from NCLabs' Python Developer Career Course to show all my learned skills. 
 
 ## Run application 
-- Download logo.txt and current version into same folder 
+- Download logo.txt and the current version into same folder 
 - Run fnote-xx.py 
  
 ## Documentation 
