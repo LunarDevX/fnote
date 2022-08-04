@@ -5,7 +5,7 @@
 
 My first repository on GitHub.
 
-f-Note is a simply note taking application written in python. 
+f-Note is a simply command line note taking application written in python. 
 
 ## Overview 
 
@@ -34,4 +34,10 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
 ## Documentation 
 #### Version-00 
 - Initial release 
-  - create
+  - Concept of OOP 
+  - Display an ASCII-text
+  - Create database 
+  - Display database 
+  - Display menu 
+  - Add note to database 
+    - for user input --> input()-function 
