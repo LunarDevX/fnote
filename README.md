@@ -28,6 +28,14 @@ These are all the modules that one might have to install.
 - readline 
   - Might not work on Mac OS and Windows. 
 
+## Features 
+- Simple to use 
+- Add note 
+  - ad title, tag and note
+  - Date and Id are generated automatically
+- Edit Note 
+  - Edit title, tag and note 
+
 ## Motivation 
 The final task from NCLabs' Python Developer Career Course to show all my learned skills. 
 
@@ -47,4 +55,18 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
     - for user input --> input()-function 
 
 #### Version-01
+- Changed 'Ad note'
+  - use of sys.stdin.read instead of input() 
+  - Goal: enter notes over multiple lines 
+- Added 'Quit Program' 
+  - Application ends due to user input 
+
+#### Version-02 
+- Changed 'Ad note' 
+  - Use of input()-function again
+  - Loop over the input function
+  - 'Add note' ends due to pressing <<Enter>> if input() is empty 
+- Add 'Edit note' 
+  - Use of readline module
+  - Error occurs when note does not exist 
 
