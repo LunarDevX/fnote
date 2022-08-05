@@ -5,7 +5,7 @@
 
 My first repository on GitHub.
 
-f-Note is a simply command line note taking application written in python. 
+f-Note is a simple command-line note-taking application written in python. 
 
 ## Overview 
 
