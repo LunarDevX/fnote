@@ -66,6 +66,10 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
   - Use of input()-function again
   - Loop over the input function
   - 'Add note' ends due to pressing 'Enter' if input() is empty 
-- Add 'Edit note' 
+- Add 'Edit note' feature  
   - Use of readline module
+
+#### Version-03
+- Add 'Delete note' feature 
+- Add 'Search for tag' feautre 
 
