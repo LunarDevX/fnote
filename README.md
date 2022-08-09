@@ -50,7 +50,7 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
   - https://docs.python.org/3/library/unittest.html
  
 #### Run unittest
-- Download test.db and the current version into same folder 
+- Download test.db and the the current version of fnotexx.py and testfnotexx.py into same folder 
 - run testfnotexx.py 
 
 #### Test Database 
