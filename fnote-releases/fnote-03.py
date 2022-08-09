@@ -435,7 +435,7 @@ class fnote:
             insert_stat = """UPDATE overview 
                         SET Title = ?, Note = ?, Tag = ? 
                         WHERE Id = ?;"""
-            values = (new_title, new_note, new_tag, [id_])
+            values = (new_title, new_note, new_tag, id_)
             cursor.execute(insert_stat, values)
             connection.commit()
             cursor.close()
