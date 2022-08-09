@@ -43,6 +43,24 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
 - Download logo.txt and the current version into same folder 
 - Run fnote-xx.py 
  
+## Unit testing 
+
+#### Necessary modules
+- unittest 
+  - https://docs.python.org/3/library/unittest.html
+ 
+#### Run unittest
+- Download test.db and the current version into same folder 
+- run testfnotexx.py 
+
+#### Test Database 
+- Database "test.db" --> Source Code is in unittest folder (create_test_database.py) 
+- Creates a table named 'overview' with following row (id, title, date, tag, note) 
+- Values for testing purposes: 
+  - '1', 'title_test01', 'date_test01', 'tag_test01', 'note_test01'
+  - '2', 'title_test02', 'date_test02', 'tag_test02', 'note_test02'
+  - '3', 'title_test03', 'date_test03', 'tag_test03', 'note_test03'
+ 
 ## Documentation 
 #### Version-00 
 - Initial release 
@@ -72,4 +90,23 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
 #### Version-03
 - Add 'Delete note' feature 
 - Add 'Search for tag' feautre 
+
+#### Version04 
+- Preparing for unit testing 
+- Change file name 
+  - Removed the hyphen to import class fnote() 
+- Start app with class method: start() 
+- Adjusted all methods which connect to the database 
+  - Added new parameter table_name to get unit tests run 
+
+#### testfnote00
+- Initialize class Testfnote() 
+- Set up connection to the database 'test.db' 
+- Tear down the database 'test.db' 
+- test following methods: 
+  - get_title_database
+  - get_note_database
+  - get_tag_database 
+
+
 
