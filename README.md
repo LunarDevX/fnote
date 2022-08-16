@@ -41,7 +41,7 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
 
 ## Run application 
 - Download logo.txt and the current version into same folder 
-- Run fnote-xx.py 
+- Run fnotexx.py 
  
 ## Unit testing 
 
@@ -50,7 +50,7 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
   - https://docs.python.org/3/library/unittest.html
  
 #### Run unittest
-- Download the current version of fnotexx.py and test_fnote__.py and create_database.py into same folder 
+- Download the current version of fnotexx.py and test_fnotexx.py and create_database.py into same folder 
 - In fnotexx.py:
   - Comment out N.start() 
 - Run test_fnotexx.py 
@@ -67,23 +67,23 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
     - for user input --> input()-function 
 
 #### Version-01
-- Changed 'Ad note'
+- Changed 'Add note'
   - Use of sys.stdin.read instead of input() 
   - Goal: enter notes over multiple lines 
 - Added 'Quit Program' 
   - Application ends due to user input 
 
 #### Version-02 
-- Changed 'Ad note' 
+- Changed 'Add note' 
   - Use of input()-function again
   - Loop over the input function
   - 'Add note' ends due to pressing 'Enter' if input() is empty 
-- Add 'Edit note' feature  
+- Added 'Edit note' feature  
   - Use of readline module
 
 #### Version-03
-- Add 'Delete note' feature 
-- Add 'Search for tag' feautre 
+- Added 'Delete note' feature 
+- Added 'Search for tag' feautre 
 
 #### Version04 
 - Preparing for unit testing 
