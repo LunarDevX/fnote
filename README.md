@@ -33,7 +33,7 @@ These are all the modules that one might have to install.
 - Add note 
   - Insert title, tag and note
   - Date and Id are generated automatically
-- Edit Note 
+- Edit note 
   - Edit title, tag and note 
  - Delete note 
  - Search for one tag 
