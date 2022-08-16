@@ -35,6 +35,8 @@ These are all the modules that one might have to install.
   - Date and Id are generated automatically
 - Edit Note 
   - Edit title, tag and note 
+ - Delete note 
+ - Search for one tag 
 
 ## Motivation 
 The final task from NCLabs' Python Developer Career Course to show all my learned skills. 
