@@ -98,6 +98,10 @@ The final task from NCLabs' Python Developer Career Course to show all my learne
 #### Version05
 - Added regular expression for search tag method 
 
+#### Version06 
+- Not all search tags were printed correctly 
+- Fixed the error in search tag 
+
 #### testfnote00
 - Initialize class Testfnote() 
 - Set up connection to the database 'test.db' 
