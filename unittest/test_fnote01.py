@@ -1,7 +1,7 @@
 import unittest
 from unittest import TestCase
 import sqlite3
-from fnote05 import fnote
+from fnote06 import fnote
 import os
 from create_database import *
 
