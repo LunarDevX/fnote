@@ -38,9 +38,6 @@ These are all the modules that one might have to install.
  - Delete note 
  - Search for one tag 
 
-## Motivation 
-The final task from NCLabs' Python Developer Career Course to show all my learned skills. 
-
 ## Run application 
 - Download logo.txt and the current version into same folder 
 - Run fnotexx.py 
